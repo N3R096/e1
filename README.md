@@ -69,8 +69,8 @@ https://youtube.com
 
 ### Table syntax
 
-| Name || mail |
-| ---- || ------------- |
-| just || just@mail.com |
+| name | mail |
+| ---- | ----------------|
+| just | just@mail.com |
 
 
